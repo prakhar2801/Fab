@@ -1,0 +1,10 @@
+com\endorsement\endorse\model\Endorsement.class
+com\endorsement\endorse\EndorseApplication.class
+com\endorsement\endorse\repository\EndorsementRepository.class
+com\endorsement\endorse\repository\SkillRepository.class
+com\endorsement\endorse\config\Neo4JConfig.class
+com\endorsement\endorse\model\Skill.class
+com\endorsement\endorse\model\User.class
+com\endorsement\endorse\repository\UserRepository.class
+com\endorsement\endorse\service\EndorsementService.class
+com\endorsement\endorse\controller\EndorsementController.class
